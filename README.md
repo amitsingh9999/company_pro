@@ -1,0 +1,2 @@
+# FAKE_NEWS_DETECTION
+beta 1.0
